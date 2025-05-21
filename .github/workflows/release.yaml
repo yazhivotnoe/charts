@@ -4,11 +4,9 @@ on:
     branches:
       - main
     paths:
-      - 'main/**'
+      - 'stable/**'
   release:
     types: [published, created]
-
-
 
 jobs:
   release:

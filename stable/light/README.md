@@ -1,4 +1,3 @@
-
 # Helmchart Light
 
 - for more information abount `config.yml` file u can follow to [light repo](https://github.com/eatmore01/light)
