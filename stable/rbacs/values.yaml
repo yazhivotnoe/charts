@@ -1,0 +1,3 @@
+clusterStage: "prod" # or dev, stage
+enableDevopsRbacs: true
+enableDevelopersRbacs: true

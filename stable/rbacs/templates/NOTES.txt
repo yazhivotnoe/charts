@@ -1,0 +1,7 @@
+===> Setuped rbacs for {{ .Values.clusterStage | upper }} env cluster:
+{{- if .Values.enableDevopsRbacs }}
+- Rbacs for devops group
+{{- end }}
+{{- if .Values.enableDevelopersRbacs }}
+- Rbacs for developer group
+{{- end }}
