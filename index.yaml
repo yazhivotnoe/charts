@@ -10,4 +10,15 @@ entries:
     urls:
     - https://github.com/yazhivotnoe/charts/releases/download/light-0.0.1/light-0.0.1.tgz
     version: 0.0.1
-generated: "2025-05-21T23:00:37.739845689Z"
+  rbacs:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-05-22T04:02:39.87891109Z"
+    description: Setup rbacs
+    digest: a4ff41cee36fcfc3fb3916fcba3f2f98c636653776d618bcca64df165f9d969a
+    name: rbacs
+    type: application
+    urls:
+    - https://github.com/yazhivotnoe/charts/releases/download/rbacs-0.1.0/rbacs-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-22T04:02:39.878941458Z"
